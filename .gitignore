@@ -1,6 +1,1 @@
-node_modules/
-*.vsix
-.DS_Store
-.vscode-test/
-.vscode/
-*.log 
+node_modules

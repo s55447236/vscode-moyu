@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VSCode 摸鱼助手
 
 一个将小说转换为代码格式的 VSCode 插件，让你的阅读更加隐蔽。
@@ -30,3 +31,7 @@
 ## License
 
 MIT
+=======
+# vscode-moyu
+一个将小说转换为代码格式的 VSCode 插件
+>>>>>>> 24cfaf9f048dd3d65eb44ed4596bf9a0ff2f219a
